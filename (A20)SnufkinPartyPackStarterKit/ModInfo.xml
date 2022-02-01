@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="(A20)SnufkinPartyPackStarterKit" />
+		<Description value="Provides a basic starter kit for Snufkin modded servers"/>
+		<Author value="arramus (Based on Nanashi's Starting Item Plus"/>
+		<Version value="A20" />
+		<Website value=""/>
+	</ModInfo>
+</xml>
